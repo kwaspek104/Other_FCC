@@ -10,5 +10,26 @@
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "sequelize": "^6.5.0"
-  }
+  },
+  "name": "other_fcc",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "node": "15.5.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwaspek104/Other_FCC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwaspek104/Other_FCC/issues"
+  },
+  "homepage": "https://github.com/kwaspek104/Other_FCC#readme"
 }
